@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39330'
     url: http://www.gutenberg.org/2009/agents/39330
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38238#The-Old-Yellow-BookSource-of-Robert-Browning-s-The-Ring-and-the-Book
 gutenberg_issued: '2011-12-06'
 gutenberg_type: Text
 identifiers:
