@@ -1,0 +1,30 @@
+_repo: The-Old-Yellow-BookSource-of-Robert-Browning-s-The-Ring-and-the-Book_38238
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Hodell, Charles W. (Charles Wesley)
+    birthdate: 1872
+    deathdate: 1925
+    gutenberg_agent_id: '39330'
+    url: http://www.gutenberg.org/2009/agents/39330
+description: ''
+gutenberg_issued: '2011-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trials (Murder) -- Italy -- Rome -- History -- 17th century -- Sources'
+- !lcc 'KJ'
+- !lcc 'PR'
+- !lcsh 'Law -- Italy'
+- !lcsh 'Browning, Robert, 1812-1889. Ring and the book -- Sources'
+- !lcsh 'Franceschini, Pompilia, 1680-1698'
+title: 'The Old Yellow Book: Source of Robert Browning''s The Ring and the Book'
+url: http://www.gutenberg.org/ebooks/38238
